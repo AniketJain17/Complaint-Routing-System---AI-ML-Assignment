@@ -14,7 +14,6 @@ A **production-ready AI/ML system** for intelligent complaint routing, priority 
 4. [Project Structure](#project-structure)
 5. [Installation](#installation)
 6. [Results & Metrics](#results--metrics)
-7. [License](#license)
 
 ---
 
@@ -341,10 +340,4 @@ python cli.py predict --text "test complaint" --language en
 - **Expected Improvement**: +10-15% on routing (paraverbal cues)
 - **Expected Improvement**: +5% on priority (sentiment from audio)
 - **Expected Improvement**: +3% on ETA (urgency detection)
-
-## License
-
-This project is part of an AI/ML educational assignment. All code is original work.
-
----
 
